@@ -1,0 +1,4 @@
+if "e" in "abcde":
+    print ("true")
+else:
+    print("false")

@@ -1,0 +1,1 @@
+def triangle (a,b,c):
